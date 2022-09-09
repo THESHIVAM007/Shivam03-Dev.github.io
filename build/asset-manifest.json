@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shivam03-Dev.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Shivam03-Dev.github.io/static/js/main.c10c28f8.js",
+    "static/js/787.3a26da01.chunk.js": "/Shivam03-Dev.github.io/static/js/787.3a26da01.chunk.js",
+    "static/media/logo.svg": "/Shivam03-Dev.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shivam03-Dev.github.io/index.html",
+    "main.073c9b0a.css.map": "/Shivam03-Dev.github.io/static/css/main.073c9b0a.css.map",
+    "main.c10c28f8.js.map": "/Shivam03-Dev.github.io/static/js/main.c10c28f8.js.map",
+    "787.3a26da01.chunk.js.map": "/Shivam03-Dev.github.io/static/js/787.3a26da01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c10c28f8.js"
+  ]
+}
